@@ -149,6 +149,8 @@ def game_done(score, dead_people, chosen_scenario, answer_q3):
         print(f"\nBy the way, you killed {dead_people} people. We hope the money was worth it.")
     if answer_q3 == "N":
         print("\nFinally, in regards to your poor friend, your", chosen_scenario)
+    elif answer_q3 == "Y":
+        print("\nIt was hard, but you made the right choice.")
 
 #Order of execution; handling variable transitions from functions
 score = question_one()
