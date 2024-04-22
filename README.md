@@ -9,7 +9,7 @@ How to Run the Game:
 
 First download the script: Download the Python file Ethics_Game.py to your computer or laptop.
 Open your terminal or command prompt: Navigate to the directory where you downloaded Ethics_Game.py.
-Run the script: Type python Ethics_Game.py and press enter. Ensure you are using Python 
+Run the script: Type python Ethics_Game.py and press enter. Ensure you are using Python & that you have game.py downloaded.
 
 How to Play! 
 
