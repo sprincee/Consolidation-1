@@ -23,4 +23,4 @@ All questions are arranged in a similar format and may not cover a wide range of
 The script cannot run without user input, it is waiting for user input in order to move on.
 
 
-
+NOTE: At the end of the game, the results will be saved to a file ethical_game_results.txt
