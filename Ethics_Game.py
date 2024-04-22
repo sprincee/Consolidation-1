@@ -43,6 +43,10 @@ def question_one(score=0):
     os.system('cls')
 
     return score
+
+#Test-Cases for transition between question_one & question_two working properly.
+#question_one()
+#question_two()
     
 def question_two(score=0, dead_people=0):
     '''
